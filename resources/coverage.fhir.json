@@ -1,0 +1,112 @@
+{
+    "resourceType": "Coverage",
+    "identifier": [
+        {
+            "id": "",
+            "extension": [
+                {
+                    "url": ""
+                }
+            ],
+            "use": usual | official | temp | secondary | old,
+            "type": {
+                "coding": [
+                    {
+                        "system": "",
+                        "version": "",
+                        "code": "",
+                        "display": "",
+                        "userSelected": boolean
+                    }
+                ],
+                "text": ""
+            },
+            "system": "",
+            "value": "",
+            "period": {
+                "start": "",
+                "end": ""
+            },
+            "assigner": {
+                "reference": "Organization/",
+                "type": "",
+                "display": ""
+            }
+        },       
+    ],
+    "class": [
+        {
+            "type": {
+                "coding": [
+                    {
+                        "system": "",
+                        "version": "",
+                        "code": "",
+                        "display": "",
+                        "userSelected": false
+                    },
+                ],
+                "text": ""
+            },
+            "value": {},
+            "name": ""
+        }
+    ],
+    "costToBeneficiary": [
+        {
+            "type": {
+                "coding": [
+                    {
+                        "system": "",
+                        "version": "",
+                        "code": "",
+                        "display": "",
+                        "userSelected": false
+                    },
+                ],
+                "text": ""
+            },
+            "exception": [
+                {
+                    "type": {
+                    "coding": [
+                        {
+                            "system": "",
+                            "version": "",
+                            "code": "",
+                            "display": "",
+                            "userSelected": false
+                        },
+                    ],
+                    "text": ""
+                    },
+                    "period": {
+                        "start": "",
+                        "end": ""
+                    }
+                },
+            
+            ],
+            "valueMoney": {
+                "id": "",
+                "extension": [
+
+                ],
+                "currency": "",
+                "value": 0,
+                ra
+            },
+            "valueQuantity": {
+                "id": "",
+                "extension": [
+                    { 
+                        "url": "",
+                        value: 
+                    }
+                ],
+                "value": 0,
+                currency: 
+            }
+        }
+    ]
+}

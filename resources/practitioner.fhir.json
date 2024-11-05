@@ -1,0 +1,99 @@
+{
+    "resourceType": "Practitioner",
+    "name": [
+        {
+            "use": "official",
+            "given": [
+                "Vinod"
+            ],
+            "family": "Verma",
+            "text": ""
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1970-12-12",
+    "telecom": [
+        {
+            "system": "phone",
+            "use": "mobile",
+            "value": "9898989898"
+        },
+        {
+            "system": "email",
+            "value": "dummyvinod@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "15, abc road"
+            ],
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "postalCode": "411051"
+        }
+    ],
+    "photo": [
+        {
+            "contentType": "(Mime type of the content, with charset etc.)",
+            "data": "(base64Binary of image)"
+        }
+    ],
+    "qualification": [
+        {
+            "code": {
+                "coding": [],
+                "text": "M.D."
+            },
+            "issuer": {
+                "reference": "Organization/45080773",
+                "type": "",
+                "identifier": {
+                    "use": "official",
+                    "type": {
+                        "coding": [
+                            {
+                                "system": "",
+                                "version": "",
+                                "code": "",
+                                "display": "",
+                                "userSelected": false
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "system": "",
+                    "value": "",
+                    "period": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "assigner": {
+                        
+                    }
+                }
+            }
+        }
+    ],
+    "identifier": [
+        {
+            "use": usual | official | temp | secondary | old,
+            "type": {
+                "coding": [
+                    {
+                        "system": "",
+                        "code": "",
+                        "display": ""
+                    }
+                ],
+                "text": "",
+            },
+            "system": "",
+            "value": "",
+            "assigner": {
+                "display": "",
+            }
+        }
+    ]
+}

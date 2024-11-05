@@ -1,0 +1,71 @@
+{
+    "resourceType": "Patient",
+    "identifier": [
+        {
+            "type": {
+                "coding": [
+                    {
+                        "system": "",
+                        "code": "",
+                        "display": ""
+                    }
+                ]
+            },
+            "system": "",
+            "value": "",
+            "assigner": {
+                "display": ""
+            }
+        }
+    ],
+    "name": [
+        {
+            "use": "",  
+            "text": "",
+            "family": "",
+            "given": [],
+            "prefix": [],
+            "period": {}
+        }
+    ],
+    "gender": "",
+    "birthDate": "2001-06-04",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "1234567890"
+        },
+        {
+            "system": "email",
+            "value": "dummy@gmail.com"
+        }
+    ],
+    "address": [
+        {
+            "line": [
+                "12, xyz road"
+            ],
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "postalCode": "411051"
+        }
+    ],
+    "contact": [
+        {
+            "organization": {
+                "reference": "",
+                "type": "",
+                "identifier": {
+                    "id": "",
+                    "extension": [
+                        {
+                            "url": ""
+                        }
+                    ]
+                },
+                "display": ""
+            }
+        }
+    ]
+}

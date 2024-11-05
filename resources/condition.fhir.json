@@ -1,0 +1,12 @@
+{
+    "resourceType": "Condition",
+    "subject": {
+        "reference": "Patient/45080769"
+    },
+    "encounter": {
+        "reference": ""
+    },
+    "clinicalStatus": {
+        "text": "Crtitcal"
+    }
+}

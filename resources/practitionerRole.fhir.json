@@ -1,0 +1,21 @@
+{
+    "resourceType": "PractitionerRole",
+    "practitioner": {
+        "reference": "Practitioner/45080777"
+    },
+    "organization": {
+        "reference": "Organization/45080773"
+    },
+    "specialty": [
+        {
+            "coding": [
+                {
+                    "system": "",
+                    "code": "",
+                    "display": ""
+                }
+            ],
+            "text": "Specialized in heart diseases"
+        }
+    ]
+}

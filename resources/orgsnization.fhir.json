@@ -1,0 +1,19 @@
+{
+    "resourceType": "Organization",
+    "name": "Ruby Hall Clinic",
+    "type": [
+        {
+            "coding": [
+                {
+                    "system": "",
+                    "code": ""
+
+                }
+            ]
+        }
+    ],
+    "partOf": {
+        "reference": "",
+    
+    }
+}
